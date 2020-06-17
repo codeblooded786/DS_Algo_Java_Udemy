@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays.iml" filepath="$PROJECT_DIR$/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DS_Algo_Java_Udemy.iml" filepath="$PROJECT_DIR$/DS_Algo_Java_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/GraphAlgorithms.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/GraphAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pqrs.iml" filepath="$PROJECT_DIR$/Pqrs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dasda.iml" filepath="$PROJECT_DIR$/dasda.iml" />
     </modules>
   </component>
 </project>
